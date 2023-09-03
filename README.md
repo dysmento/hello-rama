@@ -4,9 +4,11 @@ and the code for a trivial Rama module. You can learn about Rama in detail at th
 [Rama documentation](https://redplanetlabs.com/docs/~/index.html).
 
 ### Project Contents
-It's just this README, the `pom.xml` file, and a single class called `MyFirstModule`.
+It's just this README, LICENSE, the [`pom.xml`](pom.xml) file, and a single class called
+[`MyFirstModule`](src/main/java/org/example/hellorama/MyFirstModule.java).
 ```
 .
+├── LICENSE
 ├── pom.xml
 ├── README.md
 └── src
